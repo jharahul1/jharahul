@@ -13,7 +13,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jharahul1&color=green)
 
-🏢 I’m currently working in Denali Advanced Integration as Jr. DevOps Engineer.<br>
+🏢 I’m currently working in Denali Advanced Integration as MDM Administrator.<br>
 🌱 I’m currently working on Setting up infra using Terraform over AWS.<br>
 💡 Hashtag that describes me [![Generic badge](https://img.shields.io/badge/-<DevOpsWizard>-<COLOR>.svg)](https://shields.io/) <br>
 💬 Ask me about DevOps Tools and Practices <br>
